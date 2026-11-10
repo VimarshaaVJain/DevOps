@@ -1,0 +1,12 @@
+List of commands learnt:
+
+git init
+git status
+git add
+git commit
+git log
+git remote
+git branch
+git checkout
+git push
+git merge
